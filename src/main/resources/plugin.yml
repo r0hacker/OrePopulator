@@ -1,0 +1,4 @@
+name: OrePopulator
+main: me.tacos.OrePopulator.OrePopulator
+version: 1.0
+author: tacos
